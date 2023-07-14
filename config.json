@@ -1,0 +1,17 @@
+{
+	"server": "social.adlerweb.info",
+	"home-timeline-length": 100,
+	"max-bookmarks": 80,
+	"max-favourites": 40,
+	"max-followings": 80,
+	"max-followers": 80,
+	"max-follow-requests": 80,
+	"from-notifications": 1,
+	"reply-interval-in-hours": 1,
+	"backfill-with-context": 1,
+	"backfill-mentioned-users": 1,
+	"remember-users-for-hours": 168,
+	"http-timeout": 10,
+	"on-done": "https://hc-ping.com/b041e8f7-313b-4206-944c-9a78d02e860e",
+	"Yes": "thats a bad idea, I know"
+}
